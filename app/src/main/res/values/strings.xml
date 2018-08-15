@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Freedom</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="anthem"><![CDATA[<p><h3>Jaana Gaana Maana Adhinayaka Jayehe</h3>
+    <h3>Bharata bhagya vidhata;</h3>
+    <h3>Punjaba Sindhu Gujarata Maratha,</h3>
+    <h3>Dravida Utkala Banga,</h3>
+    <h3>Vindhya, Himachala, Jamuna, Ganga,</h3>
+    <h3>Ucchhala Jaladhitaranga;</h3>
+    <h3>Taba Shubha Naame Jaage</h3>
+    <h3>Taba Shubha Ashish Maage</h3>
+    <h3>Gaye taba jaya gaatha.</h3>
+    <h3>Jana gana mangala dayaka jaya he </h3>
+    <h3>Bharata bhagya vidhata.</h3>
+    <h3>Jaya he, jaya he, jaya he, </h3>
+    <h3>Jaya jaya jaya, jaya he!</h3>
+    </p>]]></string>
+
+    <string name="song"><![CDATA[<p><h3>Vande mataram</h3>
+    <h3>Sujalam suphalam malayajasitalam</h3>
+    <h3>Sasyashyamalam mataram</h3>
+    <h3>Vande mataram</h3>
+    <h3>Shubhra jyotsna </h3>
+    <h3>pulakita yaminim</h3>
+    <h3>Phulla kusumita </h3>
+    <h3>Drumadalasobhinim</h3>
+    <h3>Suhasinim</h3>
+    <h3>Sumadhura bhasinim</h3>
+    <h3>Sukhadam varadam</h3>
+    <h3>mataram</h3>
+    <h3>Vande mataram</h3>
+    </p>]]></string>
+    <string name="history2"><![CDATA[<p><strong>1. Freedom:</strong> This day reminds us how great it is to be free. Freedom is something that all human beings want and deserve.</p>
+<p><strong>2. Celebrate nationhood:</strong> Independence Day is marked to celebrate our nationhood. Independent India was born on 15th August, 1947. The birth of a nation is one of the compelling reasons to celebrate this day.</p>
+<p><strong>3. History:</strong> Achieving Independence is an historic event, and it deserves its own day. Independence Day is a way of marking the historic importance of independence.</p>
+<p><strong>4. Remembrance:</strong> Having a special day each year to commemorate independence ensures that we never forget about this momentous occasion in history.</p>
+<p><strong>5. Patriotic Duties:</strong> We remember the day of freedom to remind ourselves of our patriotic duties. What is the role of a good citizen? What are our duties to our country and kinsmen?</p>
+<p><strong>6. Honor the freedom activists:</strong> The freedoms that we enjoy today were fought for by other people and thus Independence Day is marked to honor them.</p>
+<p><strong>7. Uniqueness:</strong> Independence Day is a chance to celebrate everything that is unique about our independent nation. The day also celebrated to reflect on how far we have come as a nation and as a people.</p>
+<p><strong>Conclusion:</strong> There are usually different national holidays but of all these, Independence Day holds the most significance, and that’s why it is important to celebrate it.&nbsp;Approaching Independence Day with an open mind and a willingness to learn as much as possible about history and politics is vital.</p>
+]]></string>
+
+    <string name="history1"><![CDATA[<p><strong>Independence Day</strong> commemorates independence from British colonial rule. As a result, Independence Day celebrates the birth of a new nation. In India, Independence Day falls on August 15th every year.</p>
+    <p>Independence Day (15th day of August) is marked every year, and for some people, it is just another public holiday. There are many reasons why this day is important and celebrated as a national event.</p>]]></string>
+    <string name="gandhi">Gandhiji</string>
+    <string name="balganga">Bal Gangadhar Tilak</string>
+    <string name="bhagat">Bhagat Singh</string>
+    <string name="dadabhai">Dadabhai Naoroji</string>
+    <string name="rajendra">Rajendra Prasad</string>
+    <string name="subhash">Subhash Chandra Bose</string>
+    <string name="lala">Lala Lajipati Rai</string>
+    <string name="sarojini">Sarojini Naidu</string>
+    <string name="sardar">Sardar Vallabhbhai</string>
+    <string name="lalbahadur">Lal Bahadur Shastri</string>
+    <string name="asdf">Hello</string>
+
+</resources>
